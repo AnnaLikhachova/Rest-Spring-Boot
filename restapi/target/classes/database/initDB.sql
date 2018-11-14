@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS customers (
+    `id` BIGINT NOT NULL AUTO_INCREMENT,
+  `firstname` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`id`));
