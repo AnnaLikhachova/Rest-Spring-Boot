@@ -38,7 +38,9 @@ GET /api/customers/{id}
 
 PUT /api/customers/{id}
 
+DELETE /api/customers/{id}
+
 License.
 This product is licensed.
 
-DELETE /api/customers/{id}
+
